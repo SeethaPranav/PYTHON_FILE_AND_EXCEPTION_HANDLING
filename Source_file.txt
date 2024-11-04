@@ -1,0 +1,5 @@
+Hello, World!
+This is a sample text file.
+It contains multiple lines of text.
+You can use it to test the file copy program.
+Have a great day!

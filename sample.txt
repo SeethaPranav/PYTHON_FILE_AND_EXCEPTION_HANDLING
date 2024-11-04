@@ -1,0 +1,5 @@
+Hello, World!
+This is an example file.
+It contains multiple lines of text.
+Python is a great programming language!
+Feel free to modify this content as needed.
