@@ -49,7 +49,7 @@ destination_file.close()
 
 ![q2_2](https://github.com/user-attachments/assets/257c4426-fd09-477c-a231-f64ff3387f56)
 
-# Exercise 3: (score : 2) Write a Python program to read the content of a file and count the total number of words in that file.
+# Exercise 3: Write a Python program to read the content of a file and count the total number of words in that file.
 
 filename = input("Please enter the filename to read: ")
 
@@ -81,7 +81,7 @@ except Exception as e:
 
 ![q3](https://github.com/user-attachments/assets/1268b318-dfb7-451c-9443-901b6bc0d6ae)
 
-# Exercise 4: (score : 1) Write a Python program that prompts the user to input a string and converts it to an integer. Use try-except blocks to handle any exceptions that might occur
+# Exercise 4: Write a Python program that prompts the user to input a string and converts it to an integer. Use try-except blocks to handle any exceptions that might occur
 
 user_input = input("Please enter a number: ")
 
@@ -103,7 +103,7 @@ except ValueError:
 
 ![q4_2](https://github.com/user-attachments/assets/72809a59-ad7d-4e89-842b-58f07437bf7d)
 
-# Exercise 5: (score : 1) Write a Python program that prompts the user to input a list of integers and raises an exception if any of the integers in the list are negative.
+# Exercise 5: Write a Python program that prompts the user to input a list of integers and raises an exception if any of the integers in the list are negative.
 
 user_input = input("Please enter a list of integers separated by spaces: ")
 
@@ -127,7 +127,7 @@ except ValueError as e:
 
 ![q5_2](https://github.com/user-attachments/assets/bb7742f4-7490-4df8-8bd8-1dd963262fda)
 
-# Exercise 6: (score : 2) Write a Python program that prompts the user to input a list of integers and computes the average of those integers. Use try-except blocks to handle any exceptions that might occur.use the finally clause to print a message indicating that the program has finished running.
+# Exercise 6: Write a Python program that prompts the user to input a list of integers and computes the average of those integers. Use try-except blocks to handle any exceptions that might occur.use the finally clause to print a message indicating that the program has finished running.
 
 user_input = input("Please enter a list of integers separated by spaces: ")
 
@@ -161,7 +161,7 @@ finally:
 
 ![q6_3](https://github.com/user-attachments/assets/f0cc2ebe-0f4a-425d-8835-f6afaae9c12c)
 
-# Exercise 7 : (score : 2) Write a Python program that prompts the user to input a filename and writes a string to that file. Use try-except blocks to handle any exceptions that might occur and print a welcome message if there is no exception occurred.
+# Exercise 7 : Write a Python program that prompts the user to input a filename and writes a string to that file. Use try-except blocks to handle any exceptions that might occur and print a welcome message if there is no exception occurred.
 
 filename = input("Please enter the filename to write to: ")
 
